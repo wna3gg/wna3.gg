@@ -15,6 +15,7 @@ https://github.com/wna3gg/wna3.gg/releases/latest
 - Windows only
 - No installer required
 - Updates are published through GitHub Releases
+- Automatic updates
 
 ## License
 
